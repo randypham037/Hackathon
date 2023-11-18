@@ -1,4 +1,6 @@
-# Carbon footprint calculator
+# Smart Irrigation System
 
 ## Description 
-* App that allows user to calculate their carbon footprintbased on their daily activities
+* Intelligent irrigation system that optimizes water usage for agriculture
+* Implements algrorithm to schedule irrigation cycles efficiently
+  
