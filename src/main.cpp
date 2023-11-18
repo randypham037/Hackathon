@@ -1,7 +1,18 @@
+#include "weatherData.h"
+
 
 #include <iostream>
 
+
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+
+
+
+
+
+
+    std::string filename = "weather_data.csv"; // Replace with your actual file name
+    WeatherData weatherData(filename);
+
+
 }
