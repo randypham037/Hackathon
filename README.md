@@ -6,4 +6,4 @@ Author: [Randy Pham](https://github.com/randypham037), [Nicolle Cho](https://git
 * Intelligent irrigation system that optimizes water usage for agriculture
 * Implements algrorithm to schedule irrigation cycles efficiently
   
-##User Interface
+## User Interface
