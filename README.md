@@ -8,3 +8,4 @@ Author: [Randy Pham](https://github.com/randypham037), [Nicolle Cho](https://git
 
   
 ## User Interface
+<img width="235" alt="Screen Shot 2023-11-18 at 6 12 59 PM" src="https://github.com/randypham037/Hackathon/assets/146403590/9fb07fe5-2c12-47ee-9797-55d8510fb742">
